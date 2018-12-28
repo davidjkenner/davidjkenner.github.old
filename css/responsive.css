@@ -1,0 +1,255 @@
+.credits{background: url(../img/dcsf-logo.png);text-indent: -9009px;width: 100px;height: 25px;display: inline-block;background-size: 100px 25px;vertical-align: middle;margin-left: 5px;}
+.copyrights{background: #a82300;padding:30px 0;}
+.copyrights p{margin:0;}
+.copyrights a{color:#fff;}
+.copyrights a:hover{color:#01b1d7;}
+@media (min-width: 1170px) and (max-width: 1920px) {
+.contact-section-area .contact-content-area .icon {height: 60px;width: 60px;}
+.contact-section-area .contact-content-area .icon i {line-height: 60px;}
+
+}
+@media (min-width: 992px) and (max-width: 1170px) {
+.slider-area .slider-content-area h4 {height: 20px;top: 30px;width: 20px;}
+.slider-area .slider-content-area h3::before {bottom: 205px;left: 27%;}
+.slider-area .slider-content-area h3::after{bottom: 205px;right: 27%;}
+.slider-area .slider-content-area h1 a {font-size: 100px;}
+.slider-area .slider-content-area .down a i {font-size: 40px;margin: 115px auto;}
+.mainmenu-area .mainmenu ul li a {padding: 0 10px;}
+.contact-section-area .contact-content-area .icon {height: 60px;width: 60px;}
+.contact-section-area .contact-content-area .icon i {line-height: 60px;}
+.about-us-area .about-content-section-area .about-us-main-content h2{font-size: 30px;}
+/*----Reponsive Issue fix-----*/
+.contact-section-area,
+.education-section-area{padding:60px 0 0 0;}
+.blog-section-area,
+.references-section-area,
+.portfolio-section-area,
+.skills-section-area,
+.experience-section-area,
+.about-us-area{padding:60px 0;}
+.sub-title > p{  padding: 20px 70px 40px;}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+.slider-area .slider-content-area h3::before,.slider-area .slider-content-area h3::after, .slider-area .slider-content-area h4, .slider-area .slider-content-area .down a i{display: none;}
+.slider-area .slider-content-area h1 a {font-size: 80px;}
+ .mainmenu-area .mainmenu { margin: 20px -15px;}
+ div#sticky {border: 0;box-shadow: none;}
+.slider-area .slider-content-area .social-box {padding: 0px 0 0;}
+.slider-area .slider-content-area .diamond-area {margin: 20px auto;}
+.mainmenu-area .mainmenu ul li a {  font-size: 13px;  padding: 0 11px;}
+.contact-section-area .contact-content-area .icon {height: 60px;width: 60px;}
+.contact-section-area .contact-content-area .icon i {line-height: 60px;}
+.about-us-area, .experience-section-area, .skills-section-area, .portfolio-section-area, .education-section-area, .references-section-area ,.blog-section-area, .contact-section-area{padding: 50px 0;}
+.about-us-area .about-content-section-area .about-us-main-content h2{font-size: 30px;}
+.logo-area { text-align: center;margin: 0 -15px;}
+.mainmenu-area .logo-area a img {width: auto;}
+.about-us-area .about-content-section-area {margin-left: 0;}
+.portfolio-section-area .portfolio-content-section .single-portfolio .portfolio-content h2 a {font-size: 16px;}
+/*----Reponsive Issue fix-----*/
+.slider-area .slider-content-area h5,
+.slider-area .slider-content-area h2 {font-size: 24px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area{margin-top:0;}
+.contact-section-area,
+.education-section-area{padding:60px 0 0 0;}
+.blog-section-area,
+.references-section-area,
+.portfolio-section-area,
+.skills-section-area,
+.experience-section-area,
+.about-us-area{padding:60px 0;}
+.padding-768{padding-top:30px;}
+.single-blog img {  width: 100%;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info p {
+  font-size: 17px;}
+.sub-title > p{  padding: 20px 50px 40px;}
+.mainmenu-area .logo-area a {padding: 25px 0 0;}
+}
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+.mainmenu-area{display: none;}
+.mobile-menu-area{display: block;}
+ .mainmenu-area .mainmenu { margin: 20px 0;}
+ div#sticky {border: 0;box-shadow: none;}
+.slider-area .slider-content-area .social-box {padding: 10px 0 0;display:none;}
+.mainmenu-area .mainmenu ul li a {  font-size: 13px;  padding: 0 11px;}
+.contact-section-area .contact-content-area .icon {height: 60px;width: 60px;}
+.contact-section-area .contact-content-area .icon i {line-height: 60px;}
+.about-us-area, .experience-section-area, .skills-section-area, .portfolio-section-area, .education-section-area, .references-section-area ,.blog-section-area, .contact-section-area{padding: 50px 0;}
+.about-us-area .about-content-section-area .about-us-main-content h2{font-size: 30px;}
+.logo-area { text-align: center;}
+.mainmenu-area .logo-area a img {width: auto;}
+.mean-container .mean-bar {padding: 4px 0 5px;}
+.left-d, .right-d {width: 60px;}
+.featured-image img, .single-blog img{  width: 100%;}
+.about-us-area .about-content-section-area .download-resume a {margin: 45px 0 25px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info, .education-section-area .education-content-section .single-experienced-content-area .experienced-info {
+  border-right: medium none; margin-top: 0; padding: 20px 0;}
+h4.section-title {font-size: 20px;}
+.blog-section-area .blog-content-area .single-blog h2 {margin: 20px 0 0;}
+.about-us-area .about-content-section-area{margin: 0;}
+.about-us-main-content {  margin: -15px;}
+.education-section-area .education-content-section .single-experienced-content-area, .blog-section-area .blog-content-area .single-blog{padding: 0;}
+.about-us-area .about-content-section-area {margin-left: 0;}
+
+.blog-section-area .blog-content-area .single-blog { padding: 10px;}
+
+/*----Reponsive Issue fix-----*/
+.slider-area .slider-content-area h5,
+.slider-area .slider-content-area h2 {font-size: 18px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area{border-bottom: 1px solid #dddddd;margin-top: 0;text-align: center;}
+.contact-section-area,
+.education-section-area{padding:60px 0 0 0;}
+.blog-section-area,
+.references-section-area,
+.portfolio-section-area,
+.skills-section-area,
+.experience-section-area,
+.about-us-area{padding:60px 0;}
+.padding-768{padding-top:30px;}
+.single-blog img {  width: 100%;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info p {
+  font-size: 17px;}
+.slider-area .slider-content-area h1 a {font-size: 40px;}
+.nivo-directionNav a {top: 33%;}
+.floatright {  float: left;}
+.about-us-area .about-content-section-area .signature {text-align: left;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-content h2 {
+  margin: 0 0 20px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info {
+  border-right: 1px solid #dbdbdb;margin: 0 !important;padding: 0 !important;}
+.skills-section-area {  overflow: hidden;  padding: 60px 0 0 !important;}
+.education-section-area .education-content-section .single-experienced-content-area {  padding: 30px;text-align: center;}
+.education-section-area .education-content-section .single-experienced-content-area .experienced-info {
+  border-right: 0px solid #dbdbdb; padding: 0 !important;}
+.sub-title > p{  padding: 20px 30px 40px;}
+
+}
+ 
+@media (min-width: 321px) and (max-width: 480px) {
+.mainmenu-area{display: none;}
+.mobile-menu-area{display: block;}
+.mainmenu-area{display: none;}
+.mobile-menu-area{display: block;}
+.slider-content.t-cn.s-tb.slider-1, .left-d, .right-d {display: none;}
+ .mainmenu-area .mainmenu { margin: 20px 0;}
+ div#sticky {border: 0;box-shadow: none;}
+.slider-area .slider-content-area .social-box {padding: 10px 0 0;}
+.mainmenu-area .mainmenu ul li a {  font-size: 13px;  padding: 0 11px;}
+.contact-section-area .contact-content-area .icon {height: 60px;width: 60px;}
+.contact-section-area .contact-content-area .icon i {line-height: 60px;}
+.about-us-area, .experience-section-area, .skills-section-area, .portfolio-section-area, .education-section-area, .references-section-area ,.blog-section-area, .contact-section-area{padding: 50px 0;}
+.about-us-area .about-content-section-area .about-us-main-content h2{font-size: 30px;}
+.logo-area { text-align: center;}
+.mainmenu-area .logo-area a img {width: auto;}
+.mean-container .mean-bar {padding: 4px 0 5px;}
+.featured-image img, .single-blog img{  width: 100%;}
+.about-us-area .about-content-section-area .download-resume a {margin: 45px 0 25px;}
+.about-us-area .about-content-section-area .signature {margin-top: 30px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info, .education-section-area .education-content-section .single-experienced-content-area .experienced-info {
+  border-right: medium none; margin-top: 0; padding: 0px 0;}
+h4.section-title {font-size: 20px;}
+.blog-section-area .blog-content-area .single-blog h2 {margin: 20px 0 0;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-content h2 a, .education-section-area .education-content-section .single-experienced-content-area .experienced-info a{font-size: 16px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info a, .education-section-area .education-content-section .single-experienced-content-area .experienced-content h2 a {font-size: 15px;}
+.about-us-area .about-content-section-area {margin-left: 0;}
+.about-us-main-content {  margin: -15px;}
+.education-section-area .education-content-section .single-experienced-content-area{padding: 20px 0;}
+.blog-section-area .blog-content-area .single-blog { padding: 10px;}
+
+/*----Reponsive Issue fix-----*/
+.slider-area .slider-content-area h5,
+.slider-area .slider-content-area h2 {font-size: 18px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area{border-bottom: 1px solid #dddddd;margin-top: 0;text-align: center;}
+.contact-section-area,
+.education-section-area{padding:60px 0 0 0;}
+.blog-section-area,
+.references-section-area,
+.portfolio-section-area,
+.skills-section-area,
+.experience-section-area,
+.about-us-area{padding:60px 0;}
+.padding-768{padding-top:30px;}
+.single-blog img {  width: 100%;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info p {
+  font-size: 17px;}
+.slider-area .slider-content-area h1 a {font-size: 40px;}
+.nivo-directionNav a {top: 33%;}
+.floatright {  float: left;}
+.about-us-area .about-content-section-area .signature {text-align: left;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-content h2 {
+  margin: 0 0 20px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info {
+  border-right: 1px solid #dbdbdb;margin: 0 !important;padding: 0 !important;}
+.skills-section-area {  overflow: hidden;  padding: 60px 0 0 !important;}
+.education-section-area .education-content-section .single-experienced-content-area {  padding: 30px;text-align: center;}
+.education-section-area .education-content-section .single-experienced-content-area .experienced-info {
+  border-right: 0px solid #dbdbdb; padding: 0 !important;}
+.sub-title > p{  padding: 20px 30px 40px;}
+
+
+}
+ 
+@media (max-width: 320px) {
+.mainmenu-area{display: none;}
+.mobile-menu-area{display: block;}
+.mainmenu-area{display: none;}
+.mobile-menu-area{display: block;}
+.slider-content.t-cn.s-tb.slider-1, .left-d, .right-d {display: none;}
+ .mainmenu-area .mainmenu { margin: 20px 0;}
+ div#sticky {border: 0;box-shadow: none;}
+.slider-area .slider-content-area .social-box {padding: 10px 0 0;}
+.mainmenu-area .mainmenu ul li a {  font-size: 13px;  padding: 0 11px;}
+.contact-section-area .contact-content-area .icon {height: 60px;width: 60px;}
+.contact-section-area .contact-content-area .icon i {line-height: 60px;}
+.about-us-area, .experience-section-area, .skills-section-area, .portfolio-section-area, .education-section-area, .references-section-area ,.blog-section-area, .contact-section-area{padding: 50px 0;}
+.about-us-area .about-content-section-area .about-us-main-content h2{font-size: 24px;}
+.logo-area { text-align: center;}
+.mainmenu-area .logo-area a img {width: auto;}
+.mean-container .mean-bar {padding: 4px 0 5px;}
+.featured-image img, .single-blog img{  width: 100%;}
+.about-us-area .about-content-section-area .download-resume a {margin: 45px 0 25px;}
+.about-us-area .about-content-section-area .signature {margin-top: 30px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info, .education-section-area .education-content-section .single-experienced-content-area .experienced-info {
+  border-right: medium none; margin-top: 0; padding: 0px 0;}
+h4.section-title {font-size: 20px;}
+.blog-section-area .blog-content-area .single-blog h2 {margin: 20px 0 0;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-content h2 a, .education-section-area .education-content-section .single-experienced-content-area .experienced-info a{font-size: 16px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info a, .education-section-area .education-content-section .single-experienced-content-area .experienced-content h2 a {font-size: 15px;}
+.about-us-area .about-content-section-area {margin-left: 0;}
+.about-us-main-content {  margin: -15px;}
+.education-section-area .education-content-section .single-experienced-content-area{padding: 20px 0;}
+.blog-section-area .blog-content-area .single-blog { padding: 5px;}
+
+/*----Reponsive Issue fix-----*/
+.slider-area .slider-content-area h5,
+.slider-area .slider-content-area h2 {font-size: 18px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area{border-bottom: 1px solid #dddddd;margin-top: 0;text-align: center;}
+.contact-section-area,
+.education-section-area{padding:60px 0 0 0;}
+.blog-section-area,
+.references-section-area,
+.portfolio-section-area,
+.skills-section-area,
+.experience-section-area,
+.about-us-area{padding:60px 0;}
+.padding-768{padding-top:30px;}
+.single-blog img {  width: 100%;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info p {
+  font-size: 17px;}
+.slider-area .slider-content-area h1 a {font-size: 40px;}
+.nivo-directionNav a {top: 33%;}
+.floatright {  float: left;}
+.about-us-area .about-content-section-area .signature {text-align: left;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-content h2 {
+  margin: 0 0 20px;}
+.experience-section-area .experienced-content-section .single-experienced-content-area .experienced-info {
+  border-right: 1px solid #dbdbdb;margin: 0 !important;padding: 0 !important;}
+.skills-section-area {  overflow: hidden;  padding: 60px 0 0 !important;}
+.education-section-area .education-content-section .single-experienced-content-area {  padding: 30px;text-align: center;}
+.education-section-area .education-content-section .single-experienced-content-area .experienced-info {
+  border-right: 0px solid #dbdbdb; padding: 0 !important;}
+.sub-title > p{  padding: 20px 20px 40px;}
+}
